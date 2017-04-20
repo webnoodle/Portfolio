@@ -1,0 +1,8 @@
+body {
+  background-color: #11151d;
+}
+.name {
+  text-transform: uppercase;
+  text-align: right;
+  color: #494d56;
+}
